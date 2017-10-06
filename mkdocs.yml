@@ -9,20 +9,21 @@ repo_url: https://github.com/nodesocket/baseball-stats.net
 pages:
     - Home: index.md
     - Hitting:
-        - 'Batting average': hitting/avg.md
-        - 'On-base percentage': hitting/obp.md
-        - 'Slugging average': hitting/slg.md
-        - 'On-base plus slugging': hitting/ops.md
-        - 'Gross production average': hitting/gpa.md
+        - 'Batting Average (AVG)': hitting/avg.md
+        - 'On-Base Percentage (OBP)': hitting/obp.md
+        - 'Slugging Average (SLG)': hitting/slg.md
+        - 'On-Base Plus Slugging (OPS)': hitting/ops.md
+        - 'Gross Production Average (GPA)': hitting/gpa.md
     - Pitching:
-        - 'Earned run average': pitching/era.md
-        - 'Adjusted earned run average': pitching/aera.md
-        - 'Walks and hits per inning pitched': pitching/whip.md
-        - 'Strikeout-to-walk ratio': pitching/kbb.md
-        - 'Left-on-base percentage': pitching/lobp.md
-        - 'Power finesse ratio': pitching/pfr.md
+        - 'Earned Run Average (ERA)': pitching/era.md
+        - 'Adjusted Earned Run Average (ERA+)': pitching/aera.md
+        - 'Walks And Hits Per Inning Pitched (WHIP)': pitching/whip.md
+        - 'Strikeout-To-Walk Ratio (K/BB)': pitching/kbb.md
+        - 'Left-On-Base Percentage (LOB%)': pitching/lobp.md
+        - 'Win-Loss Percentage (PCT)': pitching/pct.md
+        - 'Power Finesse Ratio (PFR)': pitching/pfr.md
     - Baserunning:
-        - 'Stolen base percentage': baserunning/sbp.md
+        - 'Stolen Base Percentage (SB%)': baserunning/sbp.md
 theme: material
 site_favicon: 'images/favicon.ico'
 extra:

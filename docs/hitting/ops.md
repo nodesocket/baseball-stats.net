@@ -1,1 +1,1 @@
-# On-base plus slugging `(OPS)`
+# On-Base Plus Slugging `(OPS)`

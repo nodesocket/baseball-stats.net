@@ -1,1 +1,1 @@
-# Stolen base percentage `(SB%)`
+# Stolen Base Percentage `(SB%)`

@@ -1,1 +1,1 @@
-# Left-on-base percentage `(LOB%)`
+# Left-On-Base Percentage `(LOB%)`

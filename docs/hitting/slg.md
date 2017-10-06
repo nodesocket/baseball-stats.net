@@ -1,1 +1,1 @@
-# Slugging average `(SLG)`
+# Slugging Average `(SLG)`

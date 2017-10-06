@@ -1,1 +1,1 @@
-# Batting average `(AVG)`
+# Batting Average `(AVG)`

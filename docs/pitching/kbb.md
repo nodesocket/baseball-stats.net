@@ -1,1 +1,1 @@
-# Strikeout-to-walk ratio `(K/BB)`
+# Strikeout-To-Walk Ratio `(K/BB)`
