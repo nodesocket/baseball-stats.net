@@ -1,1 +1,1 @@
-# Power Finesse Ratio `(PFR)`
+# Power Finesse Ratio (PFR)

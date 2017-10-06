@@ -1,3 +1,3 @@
 # baseball-stats.net
 
-![Screenshot](/docs/images/screenshot.jpg?raw=true "Screenshot")
+![Batting Average](/docs/images/screenshots/avg.jpg?raw=true "Batting Average")

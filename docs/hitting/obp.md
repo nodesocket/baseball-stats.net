@@ -1,1 +1,1 @@
-# On-Base Percentage `(OBP)`
+# On-Base Percentage (OBP)

@@ -1,1 +1,1 @@
-# Gross Production Average `(GPA)`
+# Gross Production Average (GPA)
