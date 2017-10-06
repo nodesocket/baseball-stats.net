@@ -1,6 +1,6 @@
 site_name: Baseball Stats
 site_url: https://baseball-stats.net
-site_description: A reference of common baseball statistics
+site_description: 'A web reference of common baseball statistics.'
 copyright: '&copy; 2017 Justin Keller<br />All rights reserved.'
 google_analytics:
 site_author: Justin Keller
