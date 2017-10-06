@@ -1,1 +1,1 @@
-# Walks And Hits Per Inning Pitched (WHIP)
+# Walks And Hits Per Inning Pitched <small>(WHIP)</small>

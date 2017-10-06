@@ -4,7 +4,7 @@ site_description: 'A web reference of common baseball statistics.'
 copyright: '&copy; 2017 <a href="https://justink.svbtle.com">Justin Keller</a><br />All rights reserved.'
 google_analytics:
 site_author: Justin Keller
-repo_name: baseball-stats.net
+repo_name: View on GitHub
 repo_url: https://github.com/nodesocket/baseball-stats.net
 pages:
     - Home: index.md
@@ -30,7 +30,7 @@ extra:
     logo: images/baseball.svg
     palette:
         primary: 'blue'
-        accent: 'red'
+        accent: 'deep-orange'
     extra:
     feature:
         tabs: true

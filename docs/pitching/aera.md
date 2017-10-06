@@ -1,1 +1,1 @@
-# Adjusted Earned Run Average (ERA+)
+# Adjusted Earned Run Average <small>(ERA+)</small>

@@ -1,1 +1,1 @@
-# Win/Loss Percentage (PCT)
+# Win/Loss Percentage <small>(PCT)</small>

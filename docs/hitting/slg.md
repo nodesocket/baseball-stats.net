@@ -1,1 +1,1 @@
-# Slugging Average (SLG)
+# Slugging Average <small>(SLG)</small>
