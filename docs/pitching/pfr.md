@@ -1,0 +1,1 @@
+# Power finesse ratio `(PFR)`

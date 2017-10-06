@@ -1,0 +1,1 @@
+# Slugging average `(SLG)`

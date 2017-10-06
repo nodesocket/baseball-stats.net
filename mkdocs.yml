@@ -1,0 +1,28 @@
+site_name: Baseball Stats
+site_url: https://baseball-stats.net
+site_description: A reference of common baseball statistics
+copyright: '&copy; 2017 Justin Keller<br />All rights reserved.'
+google_analytics:
+site_author: Justin Keller
+pages:
+    - Home: index.md
+    - Hitting:
+        - 'Batting average': hitting/avg.md
+        - 'On-base percentage': hitting/obp.md
+        - 'Slugging average': hitting/slg.md
+        - 'On-base plus slugging': hitting/ops.md
+        - 'Gross production average': hitting/gpa.md
+    - Pitching:
+        - 'Earned run average': pitching/era.md
+        - 'Adjusted earned run average': pitching/aera.md
+        - 'Walks and hits per inning pitched': pitching/whip.md
+        - 'Strikeout-to-walk ratio': pitching/kbb.md
+        - 'Left-on-base percentage': pitching/lobp.md
+        - 'Power finesse ratio': pitching/pfr.md
+    - Baserunning:
+        - 'Stolen base percentage': baserunning/sbp.md
+theme: material
+extra_javascript:
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
+markdown_extensions:
+    - pymdownx.arithmatex
