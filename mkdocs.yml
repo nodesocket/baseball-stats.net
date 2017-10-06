@@ -1,7 +1,7 @@
 site_name: Baseball Stats
 site_url: https://baseball-stats.net
 site_description: 'A web reference of common baseball statistics.'
-copyright: '&copy; 2017 Justin Keller<br />All rights reserved.'
+copyright: '&copy; 2017 <a href="https://justink.svbtle.com">Justin Keller</a><br />All rights reserved.'
 google_analytics:
 site_author: Justin Keller
 repo_name: baseball-stats.net
@@ -37,4 +37,5 @@ extra:
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
 markdown_extensions:
+    - admonition
     - pymdownx.arithmatex
