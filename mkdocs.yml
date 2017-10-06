@@ -4,6 +4,8 @@ site_description: A reference of common baseball statistics
 copyright: '&copy; 2017 Justin Keller<br />All rights reserved.'
 google_analytics:
 site_author: Justin Keller
+repo_name: baseball-stats.net
+repo_url: https://github.com/nodesocket/baseball-stats.net
 pages:
     - Home: index.md
     - Hitting:
@@ -22,6 +24,15 @@ pages:
     - Baserunning:
         - 'Stolen base percentage': baserunning/sbp.md
 theme: material
+site_favicon: 'images/favicon.ico'
+extra:
+    logo: images/baseball.svg
+    palette:
+        primary: 'blue'
+        accent: 'red'
+    extra:
+    feature:
+        tabs: true
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
 markdown_extensions:
