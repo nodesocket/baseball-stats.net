@@ -9,4 +9,4 @@ For non-pitchers, a batting average below .230 is often considered poor, and one
 !!! quote "Factoids"
     * Outfielder Ty Cobb, has the highest career batting average in MLB history. He batted .366 over 24 seasons, mostly with the Detroit Tigers.
 
-    * The modern-era record for highest batting average for a MLB season is held by Nap Lajoie, who hit .426 in 1901.
+    * The modern-era *(post-1901)* record for highest batting average for a MLB season is held by Nap Lajoie, who hit .426 in 1901.
