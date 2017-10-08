@@ -39,4 +39,6 @@ extra_javascript:
 markdown_extensions:
     - admonition
     - pymdownx.arithmatex
+    - markdown_include.include:
+        base_path: docs
 site_dir: build
