@@ -2,15 +2,15 @@
 
 ## [Hitting](hitting/avg/)
 
-Common baseball [hitting statistics](hitting/avg/) with formulas, definitions and factoids.
+Common baseball [hitting statistics](hitting/avg/) with formulas, definitions, and factoids.
 
 ## [Pitching](pitching/era/)
 
-Common baseball [pitching statistics](pitching/era/) with formulas, definitions and factoids.
+Common baseball [pitching statistics](pitching/era/) with formulas, definitions, and factoids.
 
 ## [Baserunning](baserunning/sbp/)
 
-Common baseball [baserunning statistics](baserunning/sbp/) with formulas, definitions and factoids.
+Common baseball [baserunning statistics](baserunning/sbp/) with formulas, definitions, and factoids.
 
 ## Quotes
 
