@@ -1,2 +1,2 @@
 !!! info "Info"
-    This baseball statistic has not been published yet. If you'd like to help out, please visit the [source repository on GitHub](https://github.com/nodesocket/baseball-stats.net).
+    This baseball statistic has not been published just yet. If you'd like to help out, please visit the [repository on GitHub](https://github.com/nodesocket/baseball-stats.net).

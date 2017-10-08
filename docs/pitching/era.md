@@ -9,6 +9,6 @@ ERA is the mean of earned runs given up by a pitcher per nine innings pitched *(
 !!! quote "Factoids"
     * The lowest career ERA is 1.82, set by Chicago White Sox pitcher Ed Walsh.
 
-    * In the live-ball era *(post-1920)* Mariano Rivera holds the lowest career ERA of 2.21.
+    * In the live-ball era *(post-1920)* Mariano Rivera holds the lowest career Major League ERA of 2.21.
 
-    * Dodgers Clayton Kershaw leads all active pitchers with a 2.36 career ERA.
+    * Dodgers Clayton Kershaw leads all active MLB pitchers with a 2.36 career ERA.
