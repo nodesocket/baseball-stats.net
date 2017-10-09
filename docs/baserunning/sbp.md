@@ -8,3 +8,5 @@ As a general rule of thumb, a baserunner with an SB% of 75 or higher is typicall
 
 !!! quote "Factoids"
     * Chase Utley leads all active players in the Major League with a career 87.7 SB%.
+
+    * In 2017, the average SB% among all batters in the Majors was 73.2.
