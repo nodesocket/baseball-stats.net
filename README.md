@@ -2,7 +2,7 @@
 
 A web reference of common baseball statistics.
 
-*Built using [MkDocs](http://www.mkdocs.org) and the [Material](http://squidfunk.github.io/mkdocs-material/) theme.*
+Built using [MkDocs](http://www.mkdocs.org) and the [Material](http://squidfunk.github.io/mkdocs-material/) theme.
 
 ## Installation
 
