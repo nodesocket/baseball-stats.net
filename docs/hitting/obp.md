@@ -11,4 +11,4 @@ On-base percentage is added to [slugging average (SLG)](/hitting/slg/) to determ
 !!! quote "Factoids"
     * The record for the highest career OBP by a hitter, based on over 3000 plate appearances, is .482 by Ted Williams.
 
-    * The record for a single season OBP is held by Barry Bonds who achieved a .609 OBP with the San Francisco Giants in 2004. Bonds also holds the number two spot for OBP with .581 in 2002.
+    * The single season record OBP is held by Barry Bonds who achieved a .609 OBP with the San Francisco Giants in 2004. Bonds also holds the number two spot for OBP with .581 in 2002.
