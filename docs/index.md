@@ -1,5 +1,9 @@
 # "Baseball fans are junkies, and their heroin is the statistic." <small>- Robert S. Weider</small>
 
+Justin Verlander in Game 2 of the ALCS in Houston was a magnificent work of art.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xb3FNEQ1o0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ## [Hitting](/hitting/avg/)
 
 Common baseball [hitting statistics](/hitting/avg/) with formulas, definitions, and factoids.
