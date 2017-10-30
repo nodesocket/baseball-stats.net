@@ -27,9 +27,8 @@ pages:
     - Baserunning:
         - 'Stolen Base Percentage (SB%)': baserunning/sbp.md
 theme: material
-site_favicon: 'images/favicon.ico'
 extra:
-    logo: images/baseball.svg
+    logo: img/baseball.svg
     palette:
         primary: 'blue'
         accent: 'deep-orange'
