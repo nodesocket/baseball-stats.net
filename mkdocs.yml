@@ -26,7 +26,8 @@ pages:
         - 'Power Finesse Ratio (PFR)': pitching/pfr.md
     - Baserunning:
         - 'Stolen Base Percentage (SB%)': baserunning/sbp.md
-theme: material
+theme:
+  name: 'material'
 extra:
     logo: img/baseball.svg
     palette:
