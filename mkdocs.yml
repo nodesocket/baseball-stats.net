@@ -28,14 +28,12 @@ pages:
         - 'Stolen Base Percentage (SB%)': baserunning/sbp.md
 theme:
   name: 'material'
-extra:
-    logo: img/baseball.svg
-    palette:
+  logo: img/baseball.svg
+  palette:
         primary: 'blue'
         accent: 'deep-orange'
-    extra:
-    feature:
-        tabs: true
+  feature:
+    tabs: true
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
 markdown_extensions:
