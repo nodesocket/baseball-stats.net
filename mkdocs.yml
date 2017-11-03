@@ -8,6 +8,7 @@ google_analytics:
 site_author: Justin Keller
 repo_name: View on GitHub
 repo_url: https://github.com/nodesocket/baseball-stats.net
+edit_uri: ''
 pages:
     - Home: index.md
     - Hitting:
